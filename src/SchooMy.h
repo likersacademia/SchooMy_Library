@@ -1,8 +1,8 @@
 /*
  * Sample.h
  */
-#ifndef JPZUKIN_SAMPLE_LIBRARY
-#define JPZUKIN_SAMPLE_LIBRARY
+#ifndef SCHOOMY_SAMPLE_LIBRARY
+#define SCHOOMY_SAMPLE_LIBRARY
 #include <Arduino.h>
 
 class Sample {
